@@ -1,1 +1,0 @@
-/usr/bin/c++    -v -fopenmp -g   CMakeFiles/shallow_water.dir/main.cpp.o CMakeFiles/shallow_water.dir/solver.cpp.o CMakeFiles/shallow_water.dir/render.cpp.o CMakeFiles/shallow_water.dir/Shader.cpp.o CMakeFiles/shallow_water.dir/Camera.cpp.o  -o shallow_water -lglfw3 /usr/lib/x86_64-linux-gnu/libGL.so -lGLEW -lX11 -lXxf86vm -lXrandr -lXi -ldl -lXinerama -lXcursor -lpthread -lSOIL 
