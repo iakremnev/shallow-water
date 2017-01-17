@@ -14,5 +14,6 @@ Solution can be visualized using VisualEngine class which is implemented with Op
   * **GLFW** -- windows and callbacks handler
   * **SOIL** -- texture loading
   * **GLM** -- linear algebra
+  
   ---
   Based on <http://liris.cnrs.fr/alexandre.meyer/teaching/m2pro_charanim/papers_pdf/coursenotes_shallowWater.pdf>
