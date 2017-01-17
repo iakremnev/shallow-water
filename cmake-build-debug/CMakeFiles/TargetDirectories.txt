@@ -1,0 +1,3 @@
+/home/iak/CLionProjects/shallow_water/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iak/CLionProjects/shallow_water/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/iak/CLionProjects/shallow_water/cmake-build-debug/CMakeFiles/shallow_water.dir
